@@ -3,8 +3,9 @@ Hello, I'm Md Naieem Al Zaman. Data Analyst with expertise in data analysis and 
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
+- Developing dashboards on Tableau and Power BI.
 - Data analysis and reporting using Google Sheets and Excel.
+- Exploratory Data Analysis and Data Visualization using Python
 
 ### 📚 Projects
 
@@ -13,8 +14,8 @@ Welcome to my portfolio, where I showcase my [projects]().
 ### 🛠️ Tools
 
 - Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+- Database: Oracle, MySQL
+- Visualization: Tableau, Power BI
 
 ### 👋🏻 Connect with Me
 
