@@ -5,7 +5,7 @@ Hello, I'm Md Naieem Al Zaman. Data Analyst with expertise in data analysis and 
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau and Power BI.
 - Data analysis and reporting using Google Sheets and Excel.
-- Exploratory Data Analysis and Data Visualization using Python
+- Exploratory Data Analysis and Data Visualization using Python.
 
 ### 📚 Projects
 
